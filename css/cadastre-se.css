@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+}
+
+#main-container{
+  margin-top: 30px;
+  width: 350px;
+  margin: auto;
+}
+
+.cadastre-se{
+  width: 250px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  color: #737373;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+#facebook button{
+  background-color: #1877F2;
+  border-radius: 5px;
+
+  height: 30px;
+  font-size: 13px;
+  padding: 0;
+  font-weight: bold;
+  width: 70%;
+  margin: auto;
+  border: none;
+}
+
+#facebook a{
+  text-decoration: none;
+  color: #fff;
+}
+
+/*Login form*/
+
+#login-form p{
+  font-size: 13px;
+  width: 270px;
+  margin: 0 auto;
+  color: #737373;
+  margin-bottom: 15px;
+  padding-top: 10px;
+}
+
+#login-form a{
+  text-decoration: none;
+  color: #00376B;
+}
+
+#login-form{
+  padding-bottom: 30px;
+}
